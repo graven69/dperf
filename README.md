@@ -1,6 +1,9 @@
 # dperf
 dperf Cross platform opensource disk performance test tool
 
+Runs on most operating systems including Windows, Linux, ESXi, OSX.
+Can provide greate insight into disk IO performance on traditional hard drives, RAID arrays, USB disks, solid state drives (SSD).  Also works well on NAS storage like NFS file shares and CIFS file shares and SAN technologies like FC, FCoE, and iSCSI.
+
 dperf by Dave Smith
 dperf ver 1.0
 Send donations to 19Myzrm8wsoj2XYX8vYK6mq17TTkUy5uD1
