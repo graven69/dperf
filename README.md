@@ -5,14 +5,14 @@ Runs on most operating systems including Windows, Linux, ESXi, OSX.
 
 Can provide great insight into disk IO performance on traditional hard drives, RAID arrays, USB disks, solid state drives (SSD).  Also works well on NAS storage like NFS file shares and CIFS file shares and SAN technologies like FC, FCoE, and iSCSI.
 
-dperf by Dave Smith
-dperf ver 1.0
-Send donations to 19Myzrm8wsoj2XYX8vYK6mq17TTkUy5uD1
+dperf by Dave Smith  
+dperf ver 1.0  
+Send donations to 19Myzrm8wsoj2XYX8vYK6mq17TTkUy5uD1  
 
-Syntax:
- dperf [-rp readpercent] [-runs testruns] [-interval testrun interval] [-block blocksize] [-blockinc incrementPerRun]
-   [-graph yes | no] [-brief yes | no] [-pause yes | no] [[-filename existingfile] [-filesize filesize]]
-   [-cols 32bitpattern | all | mix | read | write | bits | bytes]
+Syntax:  
+ dperf [-rp readpercent] [-runs testruns] [-interval testrun interval] [-block blocksize] [-blockinc incrementPerRun]  
+   [-graph yes | no] [-brief yes | no] [-pause yes | no] [[-filename existingfile] [-filesize filesize]]  
+   [-cols 32bitpattern | all | mix | read | write | bits | bytes]  
 
 Note: out of range values will be replaced by defaults.  Ensure you are running the test you want.
 
